@@ -1,5 +1,7 @@
 # README
 
+Rails Stupid Coaching - Le Wagon
+
 Implement a program user interface is now your browser with Rails app communicating via HTTP requests
 
 Background & Learning Objectives:
