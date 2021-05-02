@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Implement a program user interface is now your browser with Rails app communicating via HTTP requests
 
-Things you may want to cover:
+Background & Learning Objectives:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Get familiar with Rails command line basics
+- Create a new Rails app
+- Launch a web server to open your app locally
+- Generate a new controller from the command line
+- Check your routes with the relevant rails command
